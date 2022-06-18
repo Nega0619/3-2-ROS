@@ -3,7 +3,7 @@
 https://youtu.be/pdnXYFTbAJc
 
 
-[![Video Label]([https://youtu.be/'유튜브주소의id'](https://youtu.be/pdnXYFTbAJc))
+[![Video Label]](https://youtu.be/pdnXYFTbAJc))
 
 # 운전 주행 시연영상
 
